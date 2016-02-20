@@ -9,6 +9,25 @@
 
 * [Fruit](https://github.com/google/fruit) - A dependency injection framework for C++.
 
+* [MariaDB](https://mariadb.com/) - A robust, scalable and reliable SQL server, designed to be a drop-in replacement for MySQL. [BSD]
+* [PostgreSQL]() - A powerful object-relational database system. [PostgreSQL licence]
+* [Redis]() - An advanced key-value store. [3-clause BSD].
+* [SQLite]() - A self-contained, serverless, zero-configuration, transactional SQL database engine with a C interface. [Public domain]
+* [UnQLite]() - A self-contained, serverless, zero-configuration, transactional NoSQL engine with a C interface. [FreeBSD]
+
+https://www.enlightenment.org/p.php?p=about/efl
+https://github.com/stefanct/sglib
+https://bitbucket.org/zserge/jsmn/wiki/Home
+http://itpp.sourceforge.net/
+
+http://www.catb.org/esr/structure-packing/
+http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf
+https://graphics.stanford.edu/~seander/bithacks.html
+http://faculty.euc.ac.cy/scharalambous/csc131/books/C%20book%201.pdf
+http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
+http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization
+
+
 ====================
 
 All libs in:
@@ -33,7 +52,59 @@ https://github.com/psi-im/libpsi
 
 https://github.com/CopernicaMarketingSoftware
 
+http://www.swig.org/
+
+QUIC & UDT
+
 ====================
+
+https://github.com/ellisonleao/magictools
+
+https://github.com/robbinfan/claire-protorpc
+https://github.com/chen3feng/typhoon-blade - Buildsystem
+http://industriousone.com/premake
+http://glm.g-truc.net/0.9.5/index.html - Math
+https://github.com/paulhodge/EASTL
+https://code.google.com/p/distcc/
+http://omniorb.sourceforge.net/
+http://www.h323plus.org/
+http://ufmod.sourceforge.net/
+https://github.com/almalk454/wGUI
+https://code.google.com/p/google-glog/
+http://www.cs.fsu.edu/~engelen/soap.html
+http://www.qt.io/
+https://github.com/broadinstitute/gamgee
+
+http://www.reddit.com/r/programming/
+https://www.reddit.com/r/cprog/
+https://game-development.zeef.com/ellison.leao
+
+http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf
+http://www.dreamincode.net/downloads/ref_sheets/cpp_reference_sheet.pdf
+http://cpprocks.com/regex-cheatsheet/
+http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov
+
+https://github.com/Tuplanolla/cheat
+https://github.com/vgvassilev/cling
+
+https://github.com/BVLC/caffe
+https://github.com/Yelp/MOE
+https://github.com/cocos2d/cocos2d-x
+https://github.com/ideawu/ssdb
+https://github.com/cms-sw/cmssw
+
+http://tclap.sourceforge.net/
+
+http://sourceforge.net/projects/libcrn/
+
+http://glm.g-truc.net/
+
+http://www.shoup.net/ntl/
+
+====================
+
+http://www.efytimes.com/e1/fullnews.asp?edid=117053
+http://www.efytimes.com/e1/fullnews.asp?edid=123439
 
 http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
 
@@ -51,6 +122,16 @@ http://www.tntnet.org/
 http://en.wikiversity.org/wiki/Introduction_to_C++
 
 http://blogs.msdn.com/b/nativeconcurrency/
+
+====================
+
+http://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
+
+http://en.wikipedia.org/wiki/Cryptlib
+http://en.wikipedia.org/wiki/MatrixSSL
+http://en.wikipedia.org/wiki/PolarSSL
+http://en.wikipedia.org/wiki/CyaSSL
+http://en.wikipedia.org/wiki/GnuTLS
 
 ====================
 
@@ -96,6 +177,7 @@ https://github.com/mosra/magnum
 https://github.com/imvu-open/istatd
 https://github.com/bytefish/libfacerec
 https://github.com/esnme/ultramemcache
+https://github.com/simonask/fatso
 
 ====================
 
@@ -147,7 +229,6 @@ https://github.com/oclint/oclint
 
 https://github.com/TTimo/doom3.gpl
 https://github.com/phusion/passenger
-https://github.com/GarageGames/Torque3D
 https://github.com/id-Software/DOOM-3-BFG
 https://github.com/ideawu/ssdb
 https://github.com/OpenNI/OpenNI
